@@ -1,4 +1,4 @@
-Multitude - A Multilingual NLP System 
+Meridian Surge - An NLP Visualizer which Transcend Text 
 
 📌 Project Overview
 Multitude is a multilingual Natural Language Processing (NLP) system designed to perform complete regional news analysis and question answering across diverse languages.
